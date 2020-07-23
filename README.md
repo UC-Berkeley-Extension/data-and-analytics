@@ -3,7 +3,7 @@ A documentation hub for the Data and Analytics team
 
 ## Who we are
 ### Cheryl
-Content, web update
+Manages site content, web-update site change tool used by the rest of extension to request changes and report bugs.
 
 **Contact me if** you see typos or have content, spelling, grammar, ux writing on the site.
 
