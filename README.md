@@ -44,6 +44,6 @@ Front-end, how things look/interact.
 **Contact me if** you see bugs on the website
 
 ### Tommaso
-Site architecture, curriculum data pulls,
+Site architecture, how and what curriculum data shows up on the site, developing new features, web accessibility. 
 
 **Contact me if** you see inaccuracies in curriculum data, technical feasibility of new features
