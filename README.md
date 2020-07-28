@@ -7,7 +7,7 @@ Manages site content, web-update site change tool used by the rest of extension 
 
 **Contact me if** you see typos or have content, spelling, grammar, ux writing on the site.
 
-### Jesssica
+### Jessica
 PPC with Sindusha. 
 
 **Contact me for** questions about analytics, or advertising for programs.
